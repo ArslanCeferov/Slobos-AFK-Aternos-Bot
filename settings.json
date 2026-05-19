@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcJarvis.aternos.me:36576",
-    "port": 27586,
+    "ip": "mcJarvis.aternos.me",
+    "port": 36576,
     "version": "",
     "try-creative": false
   },
